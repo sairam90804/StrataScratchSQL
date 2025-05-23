@@ -1,3 +1,3 @@
 Hey I am exploring Spark through lens of SQL. 
 Seems like learning German through English. 
-I hope there is a duolingo for this one.
+Well I guess SparkSQL itself draws more attention to brackets, the 1st spot would be Java Script
